@@ -1,8 +1,4 @@
-For sure, Denis! Here’s the **README.md** file for your ezwifi project, all in English and without the description section. Clean, clear, and ready to shine on GitHub!
 
----
-
-````markdown
 # ezwifi
 
 **ezwifi** is a simple yet powerful CLI tool for Wi-Fi and network testing, written in Python.  
@@ -66,9 +62,7 @@ Denis Varga
 
 1.0.0 (build 11)
 
-```
 
----
 
-If you want, I can help you polish it even more or add a quick start guide. Just say the word, Denis! Keep crushing it! 🚀🔥
-```
+
+
